@@ -59,13 +59,14 @@ header .navbar ul li .home:hover{
     text-align: center;
 }
 .navbar ul li:hover{
-    /* background-color: crimson;
-    color: white; */
-    color: cyan;
+    /* background-color: crimson; */
+    /* color: white;
+    color: cyan; */
     border-radius: 5px;
-    box-shadow: 0 0 5px #33ffff,
-                0 0 5px #66ffff;
+    box-shadow: 0 0 5px gold,
+                0 0 5px gold;
 }
+
 .navbar ul li ul{
     display: none;
 }
